@@ -32,3 +32,6 @@ Now commit the changes u made into github
 
 Now to sync data in machine to github, push everthing into website
 >git push
+
+Now the data in git will be mismatching for another user so enter following command to pull all data and sync with machine
+>git pull
