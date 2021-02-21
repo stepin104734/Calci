@@ -27,3 +27,8 @@ create the required files and check status of git repo, which shows all the unad
 set the global mail address of git to your mail id
 >git config --global user.email "bhanumadhusagar.com"
 
+Now commit the changes u made into github
+>git commit 
+
+Now to sync data in machine to github, push everthing into website
+>git push
