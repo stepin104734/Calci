@@ -1,0 +1,29 @@
+ssh-
+
+first install ssh 
+>sudo apt-get install ssh
+
+generate key 
+>ssh-keygen
+ Just enter to every question which will create a .ssh folder under /home/madhu/ directory
+ 2 files will be created rsa_key.pub and rsa_key
+
+copy rsa_key.pub and add it into github
+
+
+github-
+
+first install git
+>sudo apt install git
+
+login to github and create a repo and get it's clone address.
+
+select a directorya and clone the project
+> git clone repo-address
+
+create the required files and check status of git repo, which shows all the unadded files
+>git status
+
+set the global mail address of git to your mail id
+>git config --global user.email "bhanumadhusagar.com"
+
