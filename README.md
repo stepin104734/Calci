@@ -1,2 +1,2 @@
 # Calci
-For simplying understanding
+For simplying understanding the concepts of git
